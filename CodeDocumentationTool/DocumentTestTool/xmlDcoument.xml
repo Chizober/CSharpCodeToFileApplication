@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDocumentAttribute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DocumentAttribute>
+    <Description>Female software developers in Genesys</Description>
+    <Output>FemaleDevelopers</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This assigns value to the Name field</Description>
+    <Input>This is a field which is the Name of female software developers and the data type is  string</Input>
+    <Output>.ctor</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This describes what happens in each department</Description>
+    <Input>It takes a string name</Input>
+    <Output>SampleCode</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This is a property, it sets and gets  the names of the software developers</Description>
+    <Output>Name</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This is also a property, it sets and gets  their Contacts</Description>
+    <Output>Contact</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This contains enumerable for the different departments</Description>
+    <Output>OS</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This contains enumerable for the different departments</Description>
+    <Output>Networking</Output>
+  </DocumentAttribute>
+  <DocumentAttribute>
+    <Description>This contains enumerable for the different departments</Description>
+    <Output>Finance</Output>
+  </DocumentAttribute>
+</ArrayOfDocumentAttribute>

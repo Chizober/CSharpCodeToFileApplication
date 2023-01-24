@@ -1,0 +1,32 @@
+
+Assembly:CodeDocumentationTool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+	Class:FemaleDevelopers
+	Description:Female software developers in Genesys
+	Constructor: .ctor
+		Description:This assigns value to the Name field
+		Input:This is a field which is the Name of female software developers and the data type is  string
+
+	Method:SampleCode
+
+		Description: This describes what happens in each department
+		Input:It takes a string name
+It brings out the output
+	Property:Name
+		Description:This is a property, it sets and gets  the names of the software developers
+		Output:
+
+	Property:Contact
+		Description:This is also a property, it sets and gets  their Contacts
+		Output:
+
+	Enum: Departments
+		Description: This contains enumerable for the different departments
+
+	OS
+
+	Networking
+
+	Finance
+
+

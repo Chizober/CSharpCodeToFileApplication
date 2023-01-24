@@ -1,0 +1,10 @@
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.csproj.AssemblyReference.cache
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.AssemblyInfoInputs.cache
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.AssemblyInfo.cs
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.csproj.CoreCompileInputs.cache
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\bin\Debug\netstandard2.0\CodeDocumentationTool.deps.json
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\bin\Debug\netstandard2.0\CodeDocumentationTool.dll
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\bin\Debug\netstandard2.0\CodeDocumentationTool.pdb
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.dll
+C:\Users\achar\source\repos\CodeDocumentationTool\CodeDocumentationTool\obj\Debug\netstandard2.0\CodeDocumentationTool.pdb
